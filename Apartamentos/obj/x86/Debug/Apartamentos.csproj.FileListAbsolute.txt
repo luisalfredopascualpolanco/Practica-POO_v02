@@ -1,0 +1,8 @@
+C:\Users\Allin.LAPTOP-6LTGT4L4\AppData\Local\Temporary Projects\Apartamentos\bin\Debug\Apartamentos.exe
+C:\Users\Allin.LAPTOP-6LTGT4L4\AppData\Local\Temporary Projects\Apartamentos\bin\Debug\Apartamentos.pdb
+C:\Users\Allin.LAPTOP-6LTGT4L4\AppData\Local\Temporary Projects\Apartamentos\obj\x86\Debug\Apartamentos.exe
+C:\Users\Allin.LAPTOP-6LTGT4L4\AppData\Local\Temporary Projects\Apartamentos\obj\x86\Debug\Apartamentos.pdb
+C:\Users\Allin.LAPTOP-6LTGT4L4\Desktop\Tarea de programacion\Apartamentos\Apartamentos\obj\x86\Debug\Apartamentos.exe
+C:\Users\Allin.LAPTOP-6LTGT4L4\Desktop\Tarea de programacion\Apartamentos\Apartamentos\obj\x86\Debug\Apartamentos.pdb
+C:\Users\Allin.LAPTOP-6LTGT4L4\Desktop\Tarea de programacion\Apartamentos\Apartamentos\bin\Debug\Apartamentos.exe
+C:\Users\Allin.LAPTOP-6LTGT4L4\Desktop\Tarea de programacion\Apartamentos\Apartamentos\bin\Debug\Apartamentos.pdb
